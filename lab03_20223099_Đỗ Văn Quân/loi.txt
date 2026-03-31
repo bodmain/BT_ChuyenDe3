@@ -1,0 +1,3 @@
+Line 3: ,Tran Thi B,XYZ - diem khong hop le (khong phai so)
+Line 4: ,Le Van C,11.0 - diem ngoai khoang 0-10
+Line 6: ,Hoang Van E,-1.0 - diem ngoai khoang 0-10

@@ -1,0 +1,4 @@
+So SV: 5
+Diem TB: 5.56
+So SV dat: 3
+So SV rot: 2

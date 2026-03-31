@@ -1,0 +1,11 @@
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+import seaborn as sns
+import sklearn
+
+print("NumPy:", np.__version__)
+print("Pandas:", pd.__version__)
+print("Seaborn:", sns.__version__)
+print("Scikit-learn:", sklearn.__version__)
+print("Cai dat moi truong thanh cong")
